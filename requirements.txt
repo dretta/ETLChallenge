@@ -1,0 +1,5 @@
+pyspark >= 2.3.2
+psycopg2
+pandas
+numpy
+sqlalchemy
